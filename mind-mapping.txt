@@ -1,0 +1,19 @@
+=====================
+== What you need ? ==
+=====================
+- HTML, HTML5
+- CSS, CSS5
+- JS + ES6 + DOM
+- JQuery
+
+=====================
+== Notes ==
+=====================
+- No framework
+- Vanilla JavaScript
+- Many Plaugins
+- jQuery
+- Mind Mapping
+- My vs code Extensionts
+- No SASS
+- No Pugjs
